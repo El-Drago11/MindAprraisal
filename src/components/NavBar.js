@@ -23,7 +23,7 @@ const NavBar = () =>{
             <div className="collapse navbar-collapse" id="navbarNavDropdown">
               <ul className="navbar-nav">
                 <li className="nav-item mx-4" >
-                  <a className="nav-link" aria-current="page" href="/" style={{fontSize:"20px"}}>
+                  <a className="nav-link" aria-current="page" href="/MindAprraisal" style={{fontSize:"20px"}}>
                   HOME
                   </a>
                 </li>
