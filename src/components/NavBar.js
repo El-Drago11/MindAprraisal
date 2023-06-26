@@ -1,13 +1,8 @@
-import React, { Component } from "react";
-import PropTypes from "prop-types";
+import React from "react";
 
-//react class based Components
-export default class NavBar extends Component {
-  static propTypes = {
-    prop: PropTypes,
-  };
 
-  render() {
+const NavBar = () =>{
+ 
     return (
       <div>
         <div className="container-fluid">
@@ -70,4 +65,5 @@ export default class NavBar extends Component {
       </div>
     );
   }
-}
+
+export default NavBar;
