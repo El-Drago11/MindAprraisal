@@ -8,7 +8,7 @@ const NewsItem = (props) => {
         return (
             <div>
                 <div className="card">
-                    <img src={Imagedata} className="card-img-top" alt="" style={{width: "420px" , height:"200px"}}/>
+                    <img src={Imagedata} className="card-img-top" alt="" style={{width: "auto" , height:"200px"}}/>
                         <div className="card-body">
                             <h5 className="card-title">{title}.....</h5>
                             <p className="card-text">{description}.....</p>
