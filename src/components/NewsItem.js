@@ -1,5 +1,6 @@
 
 import React from 'react'
+import "../CSS/NewsItem.css"
 
 const NewsItem = (props) => {
         //props
