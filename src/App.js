@@ -24,6 +24,7 @@ const App = () => {
       <div className='conatiner my-3'>
           <Routes>
                                                   {/* "setProgress" is passed as props */}
+            <Route path="/" element={<News setProgress={setProgress} ApiKey={apikey} PageSize={SizePage} country='in' category='general'/>}></Route>
             <Route exact path="/MindAprraisal" element={<News setProgress={setProgress} ApiKey={apikey} PageSize={SizePage} country='in' category='general'/>}></Route>
             <Route exact path="/business" element={<News setProgress={setProgress} ApiKey={apikey} PageSize={SizePage} country='in' category='business'/>}></Route>
             <Route exact path="/entertainment" element={<News setProgress={setProgress} ApiKey={apikey} PageSize={SizePage} country='in' category='entertainment'/>}></Route>
