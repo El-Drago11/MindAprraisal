@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 64,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Breck Dumas",
+            "title": "Most Americans falling short of affording basic expenses in retirement: Fidelity - Fox Business",
+            "description": "A new study from Fidelity Investments found that Americans' retirement preparedness has dropped sharply since 2020, as people have saved less and invested more conservatively.",
+            "url": "https://www.foxbusiness.com/markets/americans-falling-short-affording-basic-expenses-retirement",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/03/0/0/retiree-stress.jpg?ve=1&tl=1",
+            "publishedAt": "2023-03-22T14:10:08Z",
+            "content": "Americans' retirement preparedness has dropped and a majority of U.S. adults are now projected to not be able to pay for basic essentials like housing and groceries in their golden years, according t… [+2799 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Mary Kekatos",
+            "title": "Death toll linked to contaminated eye drops rises to 3 as 8 people report vision loss - ABC News",
+            "description": "Four people have reportedly had to have their eyeballs surgically removed.",
+            "url": "https://abcnews.go.com/Health/death-toll-linked-contaminated-eye-drops-rises-3/story?id=98038783",
+            "urlToImage": "https://s.abcnews.com/images/US/pseudomonas-aeruginosa-baceria-file-ap-jef-230322_1679488444675_hpMain_16x9_992.jpg",
+            "publishedAt": "2023-03-22T13:51:52Z",
+            "content": "The death toll of an outbreak linked to contaminated recalled eye drops has risen and more people have lost their vision.\r\nAccording to an update issued by the Centers for Disease Control and Prevent… [+2478 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Fed chair Powell's statement will be more important than rate decision, says Jim O'Neill - CNBC Television",
+            "description": "Jim O’Neill, former Goldman Sachs chief economist and chairman of asset management, joins 'Squawk Box' to discuss what O'Neill would do if he were Jerome Pow...",
+            "url": "https://www.youtube.com/watch?v=hExdD3dIyUM",
+            "urlToImage": "https://i.ytimg.com/vi/hExdD3dIyUM/maxresdefault.jpg",
+            "publishedAt": "2023-03-22T13:41:45Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Jim Cramer",
+            "title": "Cramer's top 10 things in stock market Wednesday: Fed, banking crisis, GameStop - CNBC",
+            "description": "The Dow, the S&P 500 and the Nasdaq are set for a muted open.",
+            "url": "https://www.cnbc.com/2023/03/22/cramers-top-10-things-in-stock-market-wednesday-fed-banking-crisis-gamestop.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107187586-16752822402023-02-01t200603z_1657693998_rc2j2z9f5c50_rtrmadp_0_usa-fed-stocks.jpeg?v=1679490922&w=1920&h=1080",
+            "publishedAt": "2023-03-22T13:15:22Z",
+            "content": "1. The Fed meeting: Does it really matter? Despite the banking crisis, the market puts nearly 90% odds on another quarter-point interest rate hike Wednesday afternoon. Investors are looking for any f… [+3591 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "PacWest Gets $1.4 Billion From Atlas Financing Facility, PACW Stock Drops - Bloomberg",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2023-03-22/pacwest-says-it-got-1-4-billion-from-atlas-financing-facility",
+            "urlToImage": null,
+            "publishedAt": "2023-03-22T13:09:51Z",
+            "content": "To continue, please click the box below to let us know you're not a robot."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Vishesh Raisinghani",
+            "title": "Employees are checked out at work more than at any time in history — and it makes no difference if they work from home or not. Here's why - Yahoo Finance",
+            "description": "Work at home? Work at the office? It makes no difference, according to a Gallup poll.",
+            "url": "https://finance.yahoo.com/news/employees-checked-more-time-history-130000852.html",
+            "urlToImage": "https://media.zenfs.com/en/moneywise_327/7d4058d1cd4492cfbcb4838dabe2b636",
+            "publishedAt": "2023-03-22T13:00:00Z",
+            "content": "Employees are checked out at work more than at any time in history and it makes no difference if they work from home or not. Here's why\r\nDo you wake up with a wide smile, excited about the long work … [+4038 chars]"
+        },
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Emily Peck",
+            "title": "Homebuyers are putting less money down now, as bidding wars fade - Axios",
+            "description": "It's one side effect of cooling competition for homes.",
+            "url": "https://www.axios.com/2023/03/22/homebuyer-down-payments-fall-redfin-data",
+            "urlToImage": "https://images.axios.com/-JZ6M2lgtw6-3NpRS8nnAB8YW8Q=/0x0:1604x902/1366x768/2023/03/21/1679419590896.png",
+            "publishedAt": "2023-03-22T12:46:13Z",
+            "content": "Homebuyers aren't putting as much money down as they were at the height of the housing frenzy. \r\nWhat's happening: The typical U.S. homebuyer made a down payment of $42,000 in January, the lowest num… [+1554 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": "Kana Inagaki, Mercedes Ruehl, Kaye Wiggins, Harriet Clarfelt, Cheng Leng, Leo Lewis",
+            "title": "Credit Suisse fallout threatens to halt issuance of risky bank debt - Financial Times",
+            "description": "Some of Asia’s largest lenders may pause sales of additional tier 1 bonds after $17bn wipeout at Swiss bank",
+            "url": "https://www.ft.com/content/3f405e6d-d4a3-46f1-82ba-3ec9cf4f7054",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F80d21a4a-55bf-4e6e-865c-62ee79e13984.jpg?source=next-opengraph&fit=scale-down&width=900",
+            "publishedAt": "2023-03-22T12:33:10Z",
+            "content": "The wipeout of $17bn of Credit Suisse bonds has thrown into question further issuance in the market for risky bank debt, with some of Asias biggest banks considering pausing sales. \r\nMajor banks in J… [+4556 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Amruta Khandekar and Shubham  Batra",
+            "title": "US STOCKS-Wall St set for subdued open ahead of Fed rate decision, Powell comments - Yahoo Finance",
+            "description": "Wall Street's main indexes were headed for a subdued open on Wednesday, ahead of the outcome of the Federal Reserve's rate-setting meeting in which the...",
+            "url": "https://finance.yahoo.com/news/us-stocks-wall-st-set-123237600.html",
+            "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
+            "publishedAt": "2023-03-22T12:32:37Z",
+            "content": "(For a Reuters live blog on U.S., UK and European stock markets, click LIVE/ or type LIVE/ in a news window.)\r\n*\r\nVirgin Orbit soars on nearing $200 mln deal\r\n*\r\nGameStop jumps after surprise Q4 prof… [+3104 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "PRO: Watch CNBC's full interview with former Goldman Sachs CEO Lloyd Blankfein - CNBC Television",
+            "description": "Lloyd Blankfein, former Goldman Sachs CEO, joins 'Squawk Box' to discuss if the recent banking crisis has any parallels to another time, the reaction from re...",
+            "url": "https://www.youtube.com/watch?v=yxkSDk9qF2g",
+            "urlToImage": "https://i.ytimg.com/vi/yxkSDk9qF2g/maxresdefault.jpg",
+            "publishedAt": "2023-03-22T12:32:37Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Michael Bloom",
+            "title": "Wall Street analysts unveil the top stock calls on Wednesday - CNBC",
+            "description": "Meta got an upgrade at KeyBanc, while Bernstein reiterated its market perform rating on Apple.",
+            "url": "https://www.cnbc.com/2023/03/22/wall-street-analysts-unveil-the-top-stock-calls-on-wednesday.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/105106589-RTX5FMJX.jpg?v=1679488287&w=1920&h=1080",
+            "publishedAt": "2023-03-22T12:31:27Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Business Wire",
+            "title": "Carvana Co. Announces Private Exchange Offers Relating to Existing Notes - Yahoo Finance",
+            "description": "PHOENIX, March 22, 2023--Carvana Co. (NYSE: CVNA) (\"Carvana\" or the \"Company\"), the leading e-commerce platform for buying and selling used cars, announced...",
+            "url": "https://finance.yahoo.com/news/carvana-co-announces-private-exchange-123000841.html",
+            "urlToImage": "https://media.zenfs.com/en/business-wire.com/1b778bd917cd62c0a3942059d2bba2f9",
+            "publishedAt": "2023-03-22T12:30:00Z",
+            "content": "PHOENIX, March 22, 2023--(BUSINESS WIRE)--Carvana Co. (NYSE: CVNA) (\"Carvana\" or the \"Company\"), the leading e-commerce platform for buying and selling used cars, announced today that it is offering … [+23544 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investor's Business Daily"
+            },
+            "author": "Investor's Business Daily",
+            "title": "14 Stocks' Amazing Rallies This Year Are Now Completely Gone - Investor's Business Daily",
+            "description": null,
+            "url": "https://www.investors.com/etfs-and-funds/sectors/sp500-stocks-amazing-rallies-this-year-are-now-completely-gone/",
+            "urlToImage": null,
+            "publishedAt": "2023-03-22T12:18:56Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Pia Singh",
+            "title": "Stocks making the biggest moves premarket: GameStop, Luminar Technologies, Virgin Orbit & more - CNBC",
+            "description": "Shares of Richard Branson's Virgin Orbit Holdings soared on a report it is nearing a $200 million investment deal, rescuing it from potential bankruptcy.",
+            "url": "https://www.cnbc.com/2023/03/22/stocks-making-the-biggest-moves-premarket-gme-lazr-vorb.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107151906-16685259512020-05-11t000000z_1807047357_rc2jmg974z9i_rtrmadp_0_health-coronavirus-usa-new-york.jpeg?v=1679487256&w=1920&h=1080",
+            "publishedAt": "2023-03-22T12:14:16Z",
+            "content": "Check out the companies making headlines before the bell.\r\nGameStop The meme stock surged 44% after the company posted a quarterly profit for the first time in two years Tuesday. The video game retai… [+2072 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CoinDesk"
+            },
+            "author": "Lyllah Ledesma",
+            "title": "First Mover Americas: Bitcoin Traders Await Fed's Decision - CoinDesk",
+            "description": "The latest price moves in crypto markets in context for March 22, 2023.",
+            "url": "https://www.coindesk.com/markets/2023/03/22/first-mover-americas-bitcoin-traders-await-feds-decision/",
+            "urlToImage": "https://www.coindesk.com/resizer/sjgYqi_jO9SNGEpvulz6WfthAoY=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/DMYLS2KEWZGQHBDWX7CXWKSRIQ.jpg",
+            "publishedAt": "2023-03-22T12:08:00Z",
+            "content": "Bitcoin continued to hover at around $28,000, up slightly on Wednesday, although some traders see the price going up to $30,000 or falling to $25,000 on positive or negative momentum depending on wha… [+1749 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Daniella Genovese",
+            "title": "More people are delaying paying up front - Fox Business",
+            "description": "Consumers are increasingly relying on Buy Now, Pay Later services in order to cover the costs of their daily expenses amid the uncertain economic environment.",
+            "url": "https://www.foxbusiness.com/economy/more-people-are-delaying-paying-up-front",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/03/0/0/afterpay.jpg?ve=1&tl=1",
+            "publishedAt": "2023-03-22T12:00:32Z",
+            "content": "An increasing number of shoppers are leaning on buy now, pay later services as inflation continues to erode household budgets, according to Adobe Analytics' latest retail report. \r\nA hefty number of … [+2890 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MarketWatch"
+            },
+            "author": "Barbara Kollmeyer",
+            "title": "Here's one for the battered bulls: the second-largest sector in the S&P 500 is stirring to life, says this strategist. - MarketWatch",
+            "description": "Critical information for the U.S. trading day",
+            "url": "https://www.marketwatch.com/story/heres-one-for-the-battered-bulls-the-second-largest-sector-in-the-s-p-500-is-stirring-to-life-says-this-strategist-5e179744",
+            "urlToImage": "https://images.mktw.net/im-748531/social",
+            "publishedAt": "2023-03-22T11:52:00Z",
+            "content": "Its the first time in a long time the FOMC has a real decision to make, says JonesTradings chief strategist Michael ORourke, who is among the handful urging the Fed to pause. Remember, this banking c… [+6769 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Peter Loftus",
+            "title": "Moderna to Price Its Covid-19 Vaccine at $130 a Dose - The Wall Street Journal",
+            "description": "Company decides on a list price in preparation for the U.S. government ending its pandemic-emergency purchases",
+            "url": "https://www.wsj.com/articles/moderna-to-price-its-covid-19-vaccine-at-130-a-dose-d7f4a956",
+            "urlToImage": "https://images.wsj.net/im-748392/social",
+            "publishedAt": "2023-03-22T11:37:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Francesca Street",
+            "title": "Two strangers shared a hotel room. They became best friends for life - CNN",
+            "description": "When their flights were canceled thanks to a snowstorm, strangers Andrea and Hollie ended up sharing a London hotel room for the evening. The two women bonded and years later consider each other best friends for life.",
+            "url": "https://www.cnn.com/travel/article/chance-encounters-stranded-airport-hotel-friends/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230322113119-ceheathrow-tzonly-1.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-03-22T11:18:00Z",
+            "content": "Editors Note: Sign up for Unlocking the World, CNN Travels weekly newsletter. Get the latest news in aviation, food and drink, where to stay and other travel developments.\r\nAndrea Rubakovic was stran… [+11980 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Matt Egan",
+            "title": "After bank failures, Elizabeth Warren demands Fed crackdown on large regional banks - CNN",
+            "description": "Senator Elizabeth Warren is cranking up the pressure on the Federal Reserve following the collapse of Silicon Valley Bank.",
+            "url": "https://www.cnn.com/2023/03/22/investing/elizabeth-warren-fed-banks/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230322110415-elizabeth-warren-file-030723.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-03-22T11:11:00Z",
+            "content": "Senator Elizabeth Warren is cranking up the pressure on the Federal Reserve following the collapse of Silicon Valley Bank. \r\nIn a new letter shared exclusively with CNN, Warren, Sen. Bernie Sanders a… [+4333 chars]"
+        }
+    ]
+}
