@@ -7,6 +7,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 ### `fork/clone the repository`
+
+### Go to terminal in the repository where you have cloned the repo
 ### `npm init`
 ### `npm start`
 Runs the app in the development mode.\
